@@ -6,7 +6,7 @@ This is a web based application developed for health related telugu based websit
 
 
 *Project Link* - https://sur-3071.github.io/projectsuresh/index.html
-*Project demo video link* -
+*Project demo video link* -https://youtu.be/R2NjtuMFeRg
 
 *Azure Technologies Used for Project*
 
