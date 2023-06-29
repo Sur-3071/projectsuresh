@@ -1,5 +1,5 @@
 # projectsuresh
-# ✨ Glory Luxe ✨ 
+# ✨Beauty Eminence✨ 
 
 This is a web based application developed for health related telugu based website in india
 
